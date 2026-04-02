@@ -2,7 +2,7 @@
 
 Welcome to this curated collection of classic **Machine Learning algorithms** and **model evaluation tools**, all implemented **from scratch** using **Python** and **Jupyter Notebooks**.
 
-This repo is ideal for students, enthusiasts, and developers who want to understand the **mathematics and logic** behind ML — without relying on libraries like `scikit-learn`.
+This repo is ideal for students, enthusiasts, and developers who want to understand the **mathematics and logic** behind ML.
 
 ---
 
